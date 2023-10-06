@@ -5,8 +5,6 @@ But in the end, it doesn't even matter
 
 <div align="center">
    <a href="https://github.com/lanzyn">
-   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lanzyn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanzyn&layout=compact&langs_count=7&theme=tokyonight"/>
   
 </div>
